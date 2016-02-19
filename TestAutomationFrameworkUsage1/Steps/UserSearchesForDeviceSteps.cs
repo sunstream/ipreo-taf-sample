@@ -3,7 +3,7 @@
 namespace TestAutomationFrameworkUsage.Steps
 {
     [Binding]
-    public sealed class UserSearchesForDevice : BaseTest
+    public sealed class UserSearchesForDeviceSteps : BaseSteps
     {
         
     }

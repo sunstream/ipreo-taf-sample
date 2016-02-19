@@ -4,7 +4,7 @@ using TechTalk.SpecFlow;
 namespace TestAutomationFrameworkUsage.Steps
 {
     [Binding]
-    public class BaseTest
+    public class BaseSteps
     {
         [BeforeScenario]
         public void ResetDriverState()

@@ -93,8 +93,8 @@
     <Compile Include="Pages\ProductPage.cs" />
     <Compile Include="Containers\SearchWidget.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Steps\UserSearchesForDevice.cs" />
-    <Compile Include="Steps\BaseTest.cs" />
+    <Compile Include="Steps\UserSearchesForDeviceSteps.cs" />
+    <Compile Include="Steps\BaseSteps.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
